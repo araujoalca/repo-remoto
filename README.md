@@ -1,2 +1,2 @@
-# repo-remoto
-descrição editada antes da clonagem deste repositório no pc local.
+# repo-remoto depois do clone
+descrição editada após a clonagem deste repositório.
