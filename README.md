@@ -1,2 +1,3 @@
 # repo-local
-descrição alterada no pc local depois do clone.
+descrição alterada no pc local após o conflito.
+
