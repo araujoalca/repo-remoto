@@ -1,2 +1,2 @@
 # repo-remoto
-aula DIO sobre git github
+descrição editada antes da clonagem deste repositório no pc local
